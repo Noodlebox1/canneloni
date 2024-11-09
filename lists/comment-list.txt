@@ -351,7 +351,6 @@
 @anonaddy.com
 @blur.com
 @distracted.com
-@protonmail.com
 @simplelogin.co
 @simplelogin.com
 @mozmail.com
@@ -363,3 +362,6 @@
 @receivesmsonline.com
 @sharklasers.com
 @dumpedmail.com
+(proton.me/pass)
+@passmail.com
+@passinbox.com
