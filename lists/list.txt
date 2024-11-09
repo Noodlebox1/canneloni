@@ -332,7 +332,6 @@
 @anonaddy.com
 @blur.com
 @distracted.com
-@protonmail.com
 @simplelogin.co
 @simplelogin.com
 @mozmail.com
